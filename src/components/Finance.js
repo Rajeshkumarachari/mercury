@@ -42,7 +42,7 @@ const Finance = () => {
           <button className=" bg-black text-white px-4 rounded-3xl">
             Get a Demo
           </button>
-          <button className=" border px-4 py-2 mx-4 rounded-3xl">
+          <button className=" border px-4 py-2 mx-4 rounded-3xl hover:bg-slate-100 delay-100">
             Learn More
           </button>
         </div>
